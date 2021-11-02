@@ -49,7 +49,7 @@ python train.py --cfg configs/config_w_3dpw.yaml
 Note that the training datasets should be downloaded and prepared before running data processing script. Please see [here](https://github.com/mkocabas/VIBE/blob/master/doc/train.md) for details on how to prepare them.
 ## Evaluation
 
-* Download pre-trained FTHE weights from [here].
+* The pre-trained FTHE weight is in ${ROOT}/data/fthe_data/.
 * Run the evaluation code with a corresponding config file to reproduce the performance in the tables of our paper.
 
 ```
