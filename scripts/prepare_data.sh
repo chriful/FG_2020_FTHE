@@ -2,7 +2,7 @@
 
 mkdir -p data
 cd data
-gdown "https://drive.google.com/uc?id=1untXhYOLQtpNEy4GTY_0fL_H-k6cTf_r"
+gdown "https://drive.google.com/file/d/1wwTJYPWz61e3tYs45glcBpa47gckHGQQ/view?usp=sharing"
 unzip fthe_data.zip
 rm fthe_data.zip
 cd ..
